@@ -1,17 +1,17 @@
-# Navigation View
+# :dart: Navigation View
 
-## MainActivity
+## :pushpin: MainActivity
 
 <image src="https://user-images.githubusercontent.com/34594339/93242948-7b259c80-f7c2-11ea-9334-61b40e46f015.png" width="35%">
 
 <br>
 
-## Activity_main_drawer.xml
+## :pushpin: Activity_main_drawer.xml
 
 <image src="https://user-images.githubusercontent.com/34594339/93245022-9b0a8f80-f7c5-11ea-8890-5d3d1e5e1479.png" width="70%">
 <br>
 
-## MainActivity.java
+## :pushpin: MainActivity.java
 
 ### AppBarConfiguration 객체를 이용하여 탐색 버튼을 관리한다.
 

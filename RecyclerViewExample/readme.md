@@ -1,8 +1,7 @@
 
 # :dart: RecylerView
 
-<image src="https://user-images.githubusercontent.com/34594339/93327518-6cd49080-f855-11ea-950e-e934470dc528.png" width="35%">
-<image src="https://user-images.githubusercontent.com/34594339/93327543-7827bc00-f855-11ea-85e7-a86cc758a423.png" width="35%">
+<image src="https://user-images.githubusercontent.com/34594339/93327518-6cd49080-f855-11ea-950e-e934470dc528.png" width="35%"> <image src="https://user-images.githubusercontent.com/34594339/93327543-7827bc00-f855-11ea-85e7-a86cc758a423.png" width="35%">
 
 ### ⇒ 추가 하면 RecyclerView에 생성 / 한번 클릭하면 Toast 실행(우측 화면) / 길게 누르면 삭제
 

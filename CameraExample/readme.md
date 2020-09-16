@@ -9,7 +9,7 @@
 
 <br>
 
-## MainActivity.java
+## :pushpin: MainActivity.java
 
 ###  권한 팝업 알려주는 코드
 
@@ -59,7 +59,7 @@
 	    return 0;  
 	}
 
-## AndroidManifest.xml
+## :pushpin: AndroidManifest.xml
 
 ### provider 추가 : App 내부 폴더의 파일을 외부 APP에 공유
   

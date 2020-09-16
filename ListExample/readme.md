@@ -1,10 +1,10 @@
-# ListView
+# :dart: ListView
 
-## Main Activity
+## :pushpin: Main Activity
 <image src="https://user-images.githubusercontent.com/34594339/93245601-7f53b900-f7c6-11ea-9b19-f43b3fc4f957.png" width="35%">
 <br>
 
-## Activity_main.xml
+## :pushpin: Activity_main.xml
 
 <image src="https://user-images.githubusercontent.com/34594339/93245751-b629cf00-f7c6-11ea-914a-f47af360401f.png" width="70%">
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## MainActivity.java
+## :pushpin: MainActivity.java
 
 <image src="https://user-images.githubusercontent.com/34594339/93246042-246e9180-f7c7-11ea-8727-f684b5e14199.png" width="70%">
 

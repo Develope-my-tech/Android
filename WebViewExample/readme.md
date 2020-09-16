@@ -1,11 +1,11 @@
-# WebView
+# :dart: WebView
 
-## MainActivity
+## :pushpin: MainActivity
 
 <image src="https://user-images.githubusercontent.com/34594339/93247144-ccd12580-f7c8-11ea-84f6-7f335e57b927.png" width="35%">
 <br>
 
-## AndroidManifest.xml
+## :pushpin: AndroidManifest.xml
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## MainActivity.java
+## :pushpin: MainActivity.java
 
 	@Override  
 	protected void onCreate(Bundle savedInstanceState) {  

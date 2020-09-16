@@ -1,6 +1,6 @@
-# SharedPreference
+# :dart: SharedPreference
 
-## MainActivity.java
+## :pushpin: MainActivity.java
 
 	@Override  
 	protected void onCreate(Bundle savedInstanceState) {  
